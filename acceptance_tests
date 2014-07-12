@@ -1,0 +1,6 @@
+User opens the application.
+User sees a header, list of the nearest bathrooms, and a button.
+User selects a bathroom they have/will poo in.
+Header changes to "Logg In this bathroom?"
+User presses button.
+Header changes to "You Logged In to this Bathroom!"
